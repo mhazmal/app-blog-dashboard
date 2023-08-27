@@ -1,0 +1,13 @@
+header {
+    height: 100px;
+}
+
+.site-logo {
+    font-size: 1.5em;
+    text-decoration: none;
+}
+
+.site-logo:hover{
+    text-decoration: underline;
+
+}
